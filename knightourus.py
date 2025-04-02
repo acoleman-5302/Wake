@@ -2,7 +2,7 @@ import numpy as np
 import random
 
 # Board dimensions
-N = 4  # Change this for different sizes
+N = 5  # Change this for different sizes
 
 # Possible moves for a knight
 MOVES = [(-2, -1), (-1, -2), (1, -2), (2, -1),
